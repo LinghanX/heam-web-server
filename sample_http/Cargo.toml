@@ -1,0 +1,6 @@
+[package]
+name = "sample_http"
+version = "0.1.0"
+authors = ["LinghanX <linghan@me.com>"]
+
+[dependencies]
